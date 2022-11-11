@@ -1,0 +1,17 @@
+
+button {
+	height: 90px;
+	width: 290px;
+	font-size: 38px;
+	color: white;
+	border: none;
+	background-color: rgb(10, 171, 199);
+	transition-property: all;
+	transition: 2s
+}
+
+button:hover {
+	background-color: tomato;
+	color: black;
+	border-radius: 10%;
+}
